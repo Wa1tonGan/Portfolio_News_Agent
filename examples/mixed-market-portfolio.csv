@@ -1,0 +1,4 @@
+ticker,company_name,quantity,average_cost,currency,current_price,market_value,percent_of_portfolio
+AAPL,Apple,10,185.50,USD,191.20,1912.00,50
+0700.HK,Tencent,100,380.00,HKD,390.00,39000.00,30
+AIR.PA,Airbus,20,145.00,EUR,151.00,3020.00,20

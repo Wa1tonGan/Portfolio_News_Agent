@@ -1,0 +1,4 @@
+ticker,company_name,quantity,current_price,average_cost,market_value,% of portfolio,currency
+AAPL,Apple,10,191.20,185.50,"1,912.00",28.10%,USD
+MSFT,Microsoft,5,430.00,410.00,"2,150.00",31.60%,USD
+XOM,Exxon Mobil,20,137.00,125.00,"2,740.00",40.30%,USD

@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1784648383571,
+      "tag": "0000_lame_pandemic",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1784730616692,
+      "tag": "0001_majestic_talkback",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1784800383314,
+      "tag": "0002_cold_hemingway",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1784803465714,
+      "tag": "0003_abandoned_marvel_zombies",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1785250239474,
+      "tag": "0004_dry_doctor_spectrum",
+      "breakpoints": true
+    }
+  ]
+}
