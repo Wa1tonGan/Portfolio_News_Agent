@@ -135,8 +135,8 @@ Open your browser and navigate to:
 ## 💡 How to Test the Agent
 
 1. **Upload a Portfolio**:
-   - You can upload your own CSV/XLSX portfolio or use the sample file located at `public/sample-portfolio.csv`.
-   - The file supports broker fields such as `Symbol`, `Market Value`, or `% of Portfolio`.
+   - **Moomoo Direct Upload**: CSV exports from **Moomoo** can be directly uploaded out-of-the-box without manual reformatting.
+   - **Other Brokers**: For exports from other brokerages, please refer to `public/sample-portfolio.csv` to ensure required fields (such as `Symbol`, `Market Value`, or `% of Portfolio`) match for maximum parsing accuracy.
 
 2. **Automatic Profile Generation**:
    - On upload, the system automatically checks local D1 database records.

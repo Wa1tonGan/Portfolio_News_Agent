@@ -135,8 +135,8 @@ npm run dev
 ## 💡 如何测试 Agent 功能
 
 1. **上传持仓文件**：
-   - 您可以上传自己的 CSV/XLSX 持仓文件，或使用项目自带的示例文件 `public/sample-portfolio.csv`。
-   - 支持券商导出字段，如 `Symbol`、`Market Value` 或 `% of Portfolio`。
+   - **Moomoo 直接上传**：支持 **Moomoo (富途/摩摩)** 导出的 CSV 文件直接一键上传使用，无需手动修改格式。
+   - **其他券商**：若使用其他券商导出的文件，建议参考 `public/sample-portfolio.csv` 样例匹配必要的字段（如 `Symbol` 代码、`Market Value` 市值或 `% of Portfolio` 持仓占比等），以确保最高解析准确率。
 
 2. **自动 Profile 生成**：
    - 上传后，系统会自动检索本地 D1 数据库。
