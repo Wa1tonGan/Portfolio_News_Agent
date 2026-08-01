@@ -92,8 +92,8 @@ Follow these steps to get your local environment up and running in minutes.
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/Portfolio-News-Impact-Agent.git
-cd Portfolio-News-Impact-Agent
+git clone https://github.com/Wa1tonGan/Portfolio_News_Agent.git
+cd Portfolio_News_Agent
 ```
 
 #### 2. Install Dependencies
@@ -181,7 +181,7 @@ This project includes a dedicated local data audit tool at `/local-data` that al
 
 ## 🤝 Contributing & Giving a Star
 
-Contributions, bug reports, and feature requests are welcome! Feel free to check the [Issues](https://github.com/YOUR_USERNAME/Portfolio-News-Impact-Agent/issues) page.
+Contributions, bug reports, and feature requests are welcome! Feel free to check the [Issues](https://github.com/Wa1tonGan/Portfolio_News_Agent/issues) page.
 
 If you find this repository inspiring or useful for your own multi-agent & local AI builds, please consider leaving a **⭐ Star**!
 

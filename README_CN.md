@@ -92,8 +92,8 @@ flowchart TD
 
 #### 1. 克隆 GitHub 仓库
 ```bash
-git clone https://github.com/YOUR_USERNAME/Portfolio-News-Impact-Agent.git
-cd Portfolio-News-Impact-Agent
+git clone https://github.com/Wa1tonGan/Portfolio_News_Agent.git
+cd Portfolio_News_Agent
 ```
 
 #### 2. 安装项目依赖
